@@ -40,8 +40,9 @@ Geoinformatics graduate transitioning into data engineering. Building pipelines,
 
 ### 📊 GitHub Stats
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=KlitiHamataj&theme=tokyonight&hide_border=true)
+![visitors](https://komarev.com/ghpvc/?username=KlitiHamataj&color=blueviolet&style=flat&label=visitors)
 
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=KlitiHamataj&theme=tokyonight&hide_border=true)
 ---
 
 ### 🌍 Languages
@@ -53,4 +54,4 @@ Geoinformatics graduate transitioning into data engineering. Building pipelines,
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamataj/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://klitihamataj.github.io/portfolio/)
+![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-gray?style=flat-square&logo=google-chrome&logoColor=white)
