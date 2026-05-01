@@ -45,7 +45,7 @@ Geoinformatics graduate transitioning into data engineering. Building pipelines,
 
 ### 🌍 Languages
 
-🇦🇱 Albanian (Native) · 🇬🇧 English (C1) · 🇮🇹 Italian (B2) · 🇫🇷 French (B1) · 🇳🇱 Dutch (A2)
+Albanian (Native) · English C1 · Italian B2 · French B1 · Dutch A2
 
 ---
 
