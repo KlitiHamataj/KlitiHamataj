@@ -1,5 +1,3 @@
-![visitors](https://komarev.com/ghpvc/?username=KlitiHamataj&color=blueviolet&style=flat&label=visitors)
-
 # Hi, I'm Kliti 👋
 
 **Data & AI Trainee · BeCode Brussels · Belgium**
