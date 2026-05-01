@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?KlitiHamataj&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=KlitiHamataj&color=blueviolet)
 <!--
 **KlitiHamataj/KlitiHamataj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
