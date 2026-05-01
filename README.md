@@ -1,4 +1,4 @@
-![visitors](https://komarev.com/ghpvc/?username=KlitiHamataj&color=7ee787&style=flat-square&label=visitors)
+![visitors](https://komarev.com/ghpvc/?username=KlitiHamataj&color=blueviolet&style=flat-square&label=visitors)
 
 ```terminal
 $ whoami
@@ -36,5 +36,5 @@ $ whoami
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KlitiHamataj&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KlitiHamataj&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=KlitiHamataj&theme=github-dark&hide_border=true)
