@@ -52,4 +52,4 @@ Albanian (Native) · English C1 · Italian B2 · French B1 · Dutch A2
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamataj/)
-![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-gray?style=flat-square&logo=google-chrome&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat-square&logo=google-chrome&logoColor=white)](https://klitihamataj.github.io/portfolio/)
