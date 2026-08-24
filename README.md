@@ -4,7 +4,7 @@
 
 Geoinformatics graduate transitioning into data engineering. Building pipelines, deploying models and shipping real projects at BeCode Brussels.
 
-🟢 **Open to work** · Looking for a first role or internship in Belgium
+🟢 **Open to work** 
 
 ---
 
