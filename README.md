@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD5B36,100:7A2E14&height=190&section=header&text=Kliti%20Hamataj&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Data%20%26%20AI%20%C2%B7%20Brussels,%20Belgium&descAlignY=58&descSize=18" alt="Kliti Hamataj banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD5B36,100:7A2E14&height=190&section=header&text=Kliti%20Hamataj&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Data%20and%20AI%20%C2%B7%20Brussels%20Belgium&descAlignY=58&descSize=18" alt="Kliti Hamataj banner"/>
 </p>
 
 <p align="center">
