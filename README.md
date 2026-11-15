@@ -166,19 +166,6 @@ speaks:       Albanian · English · Italian · French · Dutch (learning)
 
 ---
 
-## 📊 GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KlitiHamataj&show_icons=true&hide_border=true&bg_color=0d1117&title_color=BD5B36&icon_color=BD5B36&text_color=c9d1d9&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlitiHamataj&layout=compact&hide_border=true&bg_color=0d1117&title_color=BD5B36&text_color=c9d1d9" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KlitiHamataj&hide_border=true&background=0d1117&ring=BD5B36&fire=BD5B36&currStreakLabel=BD5B36&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak"/>
-</p>
-
----
-
 ## 🌍 Languages
 
 <p>
